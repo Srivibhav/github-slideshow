@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+thi is **funny** quest. mark.
 Use the left arrow to go back!
